@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 lalalala
 
 
 nha, don't listen
 american idiot
 rocket queen
+=======
+american idiot
+>>>>>>> greenday
