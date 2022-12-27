@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 blank space
 fast car
 being too loud
+=======
+
+blank space
+no that's not the title
+>>>>>>> b6787d8 (queen rocks)
 
 born to run
 dancing in the dark
