@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 blank space
 fast car
 being too loud
@@ -20,6 +21,8 @@ dancing in the dark
 >>>>>>> queen
 =======
 >>>>>>> queen
+=======
+>>>>>>> 34d6f70 (nothing but queen)
 another one bites the dust
 who wants to live forever
 we will rock you
