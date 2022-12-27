@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 blank space
 fast car
 being too loud
@@ -13,6 +14,8 @@ no that's not the title
 born to run
 dancing in the dark
 
+=======
+>>>>>>> queen
 =======
 >>>>>>> queen
 =======
