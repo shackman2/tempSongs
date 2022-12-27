@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 blank space
 fast car
 being too loud
@@ -11,5 +12,8 @@ no that's not the title
 born to run
 dancing in the dark
 
+=======
+>>>>>>> queen
 another one bites the dust
 who wants to live forever
+we will rock you
