@@ -12,6 +12,9 @@ born to run
 hells bells
 
 blank spaaace
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 blank spaaace
