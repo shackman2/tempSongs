@@ -15,3 +15,4 @@ dancing in the dark
 
 another one bites the dust
 another stash
+stash 1
