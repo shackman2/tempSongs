@@ -15,9 +15,6 @@ dancing in the dark
 
 another one bites the dust
 another stash
-<<<<<<< Updated upstream
 stash 1
 stash 0
-=======
 stash 0
->>>>>>> Stashed changes
