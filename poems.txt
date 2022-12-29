@@ -12,6 +12,10 @@ blank spaaace
 
 blank spkaaace
 
+<<<<<<< HEAD
 born to funk
+=======
+born to punk
+>>>>>>> realconflict
 dancing in the dark
 
